@@ -8,7 +8,7 @@
   "magisk": {
     "version": "87de0e7a",
     "versionCode": "20408",
-    "link": "https://github.com/topjohnwu/magisk_files/blob/a980c6ab309ff668f0ca9b7b6dca5a3e88f13f92/magisk-release.zip",
+    "link": "https://github.com/topjohnwu/magisk_files/raw/a980c6ab309ff668f0ca9b7b6dca5a3e88f13f92/magisk-release.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
     "md5": "5401f9c7c80479511adf780714ca8241"
   },
